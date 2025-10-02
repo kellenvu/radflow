@@ -9,3 +9,11 @@
   @apply bg-white/20 backdrop-blur-xl border border-white/30 rounded-lg;
   box-shadow: 0 0 20px rgba(0,0,0,0.1); /* stronger glow-like shadow */
 }
+
+.frosty-button {
+  @apply bg-white/20 backdrop-blur-xl border border-white/30 rounded-lg 
+         px-3 py-1 text-xl transition 
+         hover:bg-white/50 hover:scale-105 active:bg-white/70 active:scale-95;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
