@@ -84,7 +84,7 @@
         {#each studies as study (study.id)}
           <div in:fade={{ duration: 400 }}> <!-- Outer wrapper handles fade -->
             <div class="relative" in:fly={{ y: -20, duration: 400 }}> <!-- Inner handles fly -->
-              <div class="absolute left-4 top-6 w-2 h-2 rounded-full bg-black -translate-x-1/2"></div> <!-- Dot -->
+              <div class="absolute left-4 top-6 w-2 h-2 rounded-full bg-black -translate-x-[calc(50%-0.5px)]"></div> <!-- Dot -->
 
               <!-- Card -->
               <div class="frosty-glass ml-12 p-4">
