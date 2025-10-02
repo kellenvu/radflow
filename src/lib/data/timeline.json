@@ -1,0 +1,158 @@
+[
+  {
+    "id": "study_001",
+    "timestamp": "2025-10-02T03:15:00-04:00",
+    "title": "CT Abd/Pelvis",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": true,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_002",
+    "timestamp": "2025-10-02T05:30:00-04:00",
+    "title": "CXR Portable",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_006",
+    "timestamp": "2025-10-02T09:00:00-04:00",
+    "title": "MRI Lumbar Spine",
+    "status": {
+      "summarized": true,
+      "mapped": false,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_007",
+    "timestamp": "2025-10-02T13:20:00-04:00",
+    "title": "CT Head",
+    "status": {
+      "summarized": false,
+      "mapped": false,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_008",
+    "timestamp": "2025-10-02T16:45:00-04:00",
+    "title": "US Carotid Doppler",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": false,
+      "linked": false
+    }
+  },
+
+  {
+    "id": "study_003",
+    "timestamp": "2025-10-01T04:45:00-04:00",
+    "title": "MRI Brain",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": true,
+      "linked": true
+    }
+  },
+  {
+    "id": "study_010",
+    "timestamp": "2025-10-01T11:15:00-04:00",
+    "title": "CT Chest w/ Contrast",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_011",
+    "timestamp": "2025-10-01T14:40:00-04:00",
+    "title": "US Abdomen Complete",
+    "status": {
+      "summarized": false,
+      "mapped": false,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_012",
+    "timestamp": "2025-10-01T18:10:00-04:00",
+    "title": "MRI Knee",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": false,
+      "linked": false
+    }
+  },
+
+  {
+    "id": "study_004",
+    "timestamp": "2025-09-30T06:00:00-04:00",
+    "title": "US RUQ",
+    "status": {
+      "summarized": true,
+      "mapped": false,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_005",
+    "timestamp": "2025-09-30T10:15:00-04:00",
+    "title": "CT Chest",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_013",
+    "timestamp": "2025-09-30T12:45:00-04:00",
+    "title": "MRI Shoulder",
+    "status": {
+      "summarized": false,
+      "mapped": false,
+      "compared": false,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_014",
+    "timestamp": "2025-09-30T15:00:00-04:00",
+    "title": "CXR Portable",
+    "status": {
+      "summarized": true,
+      "mapped": true,
+      "compared": true,
+      "linked": false
+    }
+  },
+  {
+    "id": "study_015",
+    "timestamp": "2025-09-30T19:20:00-04:00",
+    "title": "CT Abdomen/Pelvis w/ Contrast",
+    "status": {
+      "summarized": true,
+      "mapped": false,
+      "compared": false,
+      "linked": false
+    }
+  }
+]

@@ -1,1 +1,11 @@
 @import 'tailwindcss';
+
+.glass {
+  @apply bg-white/10 backdrop-blur-md border border-white/20 rounded-lg;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1); /* even shadow all around */
+}
+
+.frosty-glass {
+  @apply bg-white/20 backdrop-blur-xl border border-white/30 rounded-lg;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1); /* stronger glow-like shadow */
+}
