@@ -54,4 +54,3 @@ RadFlow is a lightweight, interactive dashboard designed for radiology residents
 - Hosting: **GitHub Pages**
 - Output: **Static site** (using adapter-static)
 - Styling: **Tailwind CSS** (minimal, no extra plugins initially)
-- Tooling: **Prettier** for formatting
